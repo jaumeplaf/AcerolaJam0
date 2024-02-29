@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_Character_LittleGuy.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Scenes/Map_Main.umap",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Input/IA_Move.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Input/IA_Jump.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Input/IMC_LittleGuy.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Input/IA_Look.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Input/IA_CameraZoom.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_GameMode.uasset"
+			]
+		}
+	]
+}
