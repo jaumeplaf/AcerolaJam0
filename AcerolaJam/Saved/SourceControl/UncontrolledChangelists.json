@@ -12,7 +12,21 @@
 				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Input/IMC_LittleGuy.uasset",
 				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Input/IA_Look.uasset",
 				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Input/IA_CameraZoom.uasset",
-				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_GameMode.uasset"
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_GameMode.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_MapManager.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/Enumerators/E_WaterLevel.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_SeaPlane01.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Ruins/Blueprints/BP_SeaPlane01.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_Blockedway1.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_Friend.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Models/Foliage/LGT_GrassLayer01.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Shaders/MT_Landscape.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Scenes/Map_Main_sharedassets/Clear_LayerInfo1.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Scenes/Map_Main_sharedassets/Grass_LayerInfo1.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/Landscape/MI_Landscape_Initial.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/Landscape/MI_Landscape_corrupted.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Shaders/MT_Static.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Grass.uasset"
 			]
 		}
 	]
