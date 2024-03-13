@@ -26,7 +26,25 @@
 				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/Landscape/MI_Landscape_Initial.uasset",
 				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/Landscape/MI_Landscape_corrupted.uasset",
 				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Shaders/MT_Static.uasset",
-				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Grass.uasset"
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Grass.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Models/Foliage/LGT_FlowerLayer01.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Models/Foliage/Flower01.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Flowers.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Textures/BaseRock_basecolor.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Textures/BaseRock_normal.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Textures/SubstrateStripes_ambientOcclusion.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Textures/SubstrateStripes_Mask01.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Textures/SubstrateStripes_normal.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Crater.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Shaders/MT_Glow.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Shaders/MT_Rocks.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Glow.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Shaders/MT_Sphere01.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Sphere01.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Glow1.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Glow1_Inst.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Materials/MI_Glow_Inst.uasset",
+				"F:/AcerolaJam0/AcerolaJam0/AcerolaJam/Content/Blueprints/BP_LightBeam.uasset"
 			]
 		}
 	]
